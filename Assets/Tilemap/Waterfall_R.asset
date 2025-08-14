@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Waterfall_R
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 625572890, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 308053795, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -97488406, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 1322402633, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 1600310382, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 1495688248, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -1492983262, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 916374615, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 183214100, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -407775896, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -745468179, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -336784403, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -294857716, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 336526677, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 1823617398, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -398192796, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 635055231, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: 1929996691, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -1551303384, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  - {fileID: -1934519411, guid: a14c03bc8286b7844ac1c7d91fe7e98e, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion.Unity.Editor", "Fusion.Unity.Editor.csproj", "{36d76e23-e4f5-304a-d286-30d5a34e81b0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{c275753d-1687-36be-c2e8-81878df000ef}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{bade1162-90a6-b11f-bc87-33cec9dd9150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion.Addons.Physics", "Fusion.Addons.Physics.csproj", "{432c038f-37fa-d772-a822-782b34b7fb7b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion.Unity", "Fusion.Unity.csproj", "{e6a45b38-751b-e641-66f7-00b567715ed1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion.Addons.Physics.Editor", "Fusion.Addons.Physics.Editor.csproj", "{c841d205-2759-4652-1e61-9c408f320392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Fusion.CodeGen", "Unity.Fusion.CodeGen.csproj", "{aad34f94-d610-eb16-f94e-5bceb339ef5f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonWebSocket", "PhotonWebSocket.csproj", "{718a812b-6034-f18f-69ae-6adb1d80734a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{2d099040-7bb3-08ad-9d4d-c78a9688b967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36d76e23-e4f5-304a-d286-30d5a34e81b0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36d76e23-e4f5-304a-d286-30d5a34e81b0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c275753d-1687-36be-c2e8-81878df000ef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c275753d-1687-36be-c2e8-81878df000ef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bade1162-90a6-b11f-bc87-33cec9dd9150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bade1162-90a6-b11f-bc87-33cec9dd9150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432c038f-37fa-d772-a822-782b34b7fb7b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432c038f-37fa-d772-a822-782b34b7fb7b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e6a45b38-751b-e641-66f7-00b567715ed1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e6a45b38-751b-e641-66f7-00b567715ed1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c841d205-2759-4652-1e61-9c408f320392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c841d205-2759-4652-1e61-9c408f320392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{aad34f94-d610-eb16-f94e-5bceb339ef5f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{aad34f94-d610-eb16-f94e-5bceb339ef5f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718a812b-6034-f18f-69ae-6adb1d80734a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718a812b-6034-f18f-69ae-6adb1d80734a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2d099040-7bb3-08ad-9d4d-c78a9688b967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2d099040-7bb3-08ad-9d4d-c78a9688b967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
